@@ -1,3 +1,6 @@
+import LogoButton from "./src/components/LogoButton";
+
 export default {
-    logo: <span>BANKAYO DOCS</span>
+    logo: <LogoButton/>,
+    docsRepositoryBase:"https://github.com/wkigenyi/bankayodocs"
 }
